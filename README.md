@@ -1,6 +1,5 @@
 
-  <br>
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=re-gect&color=565656&style=for-the-badge&label=++regects++&base=4274"></img></p>
+
  <br>
 
    <p align="center">
@@ -9,3 +8,6 @@
 <p align="center">
   <img src="https://file.garden/adC_TK5dkztFvB_Z/observing%20%F0%9F%91%80%F0%9F%91%80%F0%9F%91%80.jpg" width="550"/>
 </p>
+
+
+ <br>
